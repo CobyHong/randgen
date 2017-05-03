@@ -9,4 +9,5 @@ for i in range (0, int(sys.argv[2])):
     rand_name3 = ''.join(random.sample(letters, random.randint(3, 20)))
     str = (rand_name1 + "--" + rand_name2 + "--" + rand_name3 + '\n')
     f.write(str)
+    
 f.close()
