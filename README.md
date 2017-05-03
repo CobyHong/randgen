@@ -1,4 +1,4 @@
-# randgen.py
+# randgen.py, a high quality file
 can be expanded and tweaked to work for other projects where you need a ridiculous number of random strings!
 
 ## why this
