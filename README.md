@@ -11,4 +11,5 @@ command line format:
 
 example:
 > python3 randgen.py 10_long_line_file.txt 10
+
 > python3 randgen.py 5_million_long_line_file.txt 5000000
