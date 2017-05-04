@@ -1,3 +1,4 @@
+#randgen.py, a file by @whirlygig on github
 import random
 import sys
 
