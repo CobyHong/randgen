@@ -1,4 +1,4 @@
-# :star: randgen.py, a high quality file :star:
+# :star: randgen.py, a very high quality file :star:
 can be expanded and tweaked to work for other projects where you need a ridiculous number of random strings!
 
 ## why this
